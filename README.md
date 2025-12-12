@@ -1,4 +1,4 @@
-This project analyzes biodiversity patterns across counties using a cleaned species-level dataset. The goal is to understand how total species richness relates to the number of rare or at-risk species, and to build predictive models that estimate rarity based on basic ecological variables. The project follows a structured workflow:
+This project analyzes biodiversity patterns across counties in New York using a cleaned species-level dataset. The goal is to understand how total species richness relates to the number of rare or at-risk species, and to build predictive models that estimate rarity based on basic ecological variables. 
 
 • Data cleaning and preparation
 • Exploratory data analysis to identify patterns in richness and rarity
